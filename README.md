@@ -1,2 +1,2 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# DSCI 100 Individual Project Proposal
+Repository for Mohak's DSCI 100 project individual proposal.
